@@ -1,4 +1,4 @@
-🌿 Eco-Sentinel Rwanda
+🌿 ECO-SENTINEL RWANDA
 
 AI-Driven Environmental Monitoring & Reforestation Platform
 
