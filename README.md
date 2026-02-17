@@ -1,5 +1,7 @@
 🌿 Eco-Sentinel Rwanda
+
 AI-Driven Environmental Monitoring & Reforestation Platform
+
 📌 1. PROJECT OVERVIEW
 
 Eco-Sentinel Rwanda is a distributed environmental intelligence system designed to monitor, analyze, and respond to ecological threats across Rwanda.
