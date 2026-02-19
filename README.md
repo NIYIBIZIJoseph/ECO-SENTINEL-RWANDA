@@ -158,39 +158,39 @@ This ensures scalable and secure data management.
 
 Eco-Sentinel Rwanda operates under a “Sense → Analyze → Act” framework:
 
-1️⃣ Detection
+1️⃣ DETECTION
 
-Soil tilt anomaly detection
+.Soil tilt anomaly detection
 
-Abnormal vibration detection
+.Abnormal vibration detection
 
-Excessive soil moisture
+.Excessive soil moisture
 
-River water level rise
+.River water level rise
 
-2️⃣ Analysis
+2️⃣ ANALYSIS
 
-Risk score calculation
+.Risk score calculation
 
-AI-based land classification
+.AI-based land classification
 
-Flood arrival time estimation
+.Flood arrival time estimation
 
 3️⃣ Response
 
-SMS alerts via GSM
+.SMS alerts via GSM
 
-Dashboard warning notifications
+.Dashboard warning notifications
 
-Coordinate generation for intervention
+.Coordinate generation for intervention
 
-Identification of degraded land for tree planting
+.Identification of degraded land for tree planting
 
-Support for organized community restoration (e.g., Umuganda)
+.Support for organized community restoration (e.g., Umuganda)
 
-Potential drone-based seed deployment in inaccessible zones
+.Potential drone-based seed deployment in inaccessible zones
 
-🔚 8. Conclusion
+🔚 8.CONCLUSION
 
 Eco-Sentinel Rwanda is a scalable, AI-driven environmental security platform designed to strengthen ecological resilience and disaster preparedness.
 
