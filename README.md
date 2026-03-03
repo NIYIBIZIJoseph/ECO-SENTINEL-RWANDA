@@ -1,10 +1,10 @@
-🌿 ECO-SENTINEL RWANDA
+🌿 TERRANEXUS RWANDA
 
 AI-Driven Environmental Monitoring & Reforestation Platform
 
 📌 1. PROJECT OVERVIEW
 
-Eco-Sentinel Rwanda is a distributed environmental intelligence system designed to monitor, analyze, and respond to ecological threats across Rwanda.
+TerraNexus Rwanda is a distributed environmental intelligence system designed to monitor, analyze, and respond to ecological threats across Rwanda.
 
 The system integrates:
 
@@ -24,7 +24,7 @@ Its purpose is to provide early detection of floods, landslides, soil degradatio
 
 🎯 2. OBJECTIVES
 
-The main objectives of Eco-Sentinel Rwanda are:
+The main objectives of TerraNexus Rwanda are:
 
 .Detect early signs of landslides using soil tilt and vibration data.
 
