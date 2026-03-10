@@ -130,7 +130,7 @@ The cloud architecture includes:
 
 .MongoDB Atlas
 
-.Stores:
+Stores:
 
 .Sensor data
 
@@ -146,7 +146,7 @@ The cloud architecture includes:
 
 .AWS S3
 
-.Stores drone imagery
+Stores drone imagery
 
 .Generates secure (pre-signed) URLs
 
@@ -155,8 +155,7 @@ The cloud architecture includes:
 This ensures scalable and secure data management.
 
 🚨 7. SYSTEM RESPONSE 
-
-Eco-Sentinel Rwanda operates under a “Sense → Analyze → Act” framework:
+TerraNexus-Rwanda operates under a “Sense → Analyze → Act” framework:
 
 1️⃣ DETECTION
 
@@ -192,6 +191,6 @@ Eco-Sentinel Rwanda operates under a “Sense → Analyze → Act” framework:
 
 🔚 8.CONCLUSION
 
-Eco-Sentinel Rwanda is a scalable, AI-driven environmental security platform designed to strengthen ecological resilience and disaster preparedness.
+TerraNexus-Rwanda is a scalable, AI-driven environmental security platform designed to strengthen ecological resilience and disaster preparedness.
 
 By integrating IoT sensing, drone mapping, AI analysis, and cloud infrastructure, the system aims to provide real-time environmental intelligence to communities, institutions, and policymakers in Rwanda.
